@@ -4,7 +4,7 @@
 
 Models, estimators and controllers you can trust. I work on modelling, estimation, optimization and control for robots and machines, from first principles to tested software. PhD in automatic control (CentraleSupélec), postdoc at LMU Munich, and earlier a robotics team lead in industry.
 
-🌐 [anas-makdesi.github.io](https://anas-makdesi.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/anas-makdissi)
+🌐 [anas-makdesi.github.io](https://anas-makdesi.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/anas-makdissi) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=nRzxyCUAAAAJ)
 
 #### Projects
 
